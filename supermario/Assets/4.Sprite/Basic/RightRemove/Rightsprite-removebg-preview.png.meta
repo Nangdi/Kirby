@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: c12383de180f1f347870a7726cf47ee4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4533203736816419959
+    second: RInhalingmove0
+  - first:
+      213: 613552184055900442
+    second: RInhalingmove1
+  - first:
+      213: -5500175065648294692
+    second: RInhalingmove2
+  - first:
+      213: -4806112708828727759
+    second: RInhalingmove3
+  - first:
+      213: -7719165207370660720
+    second: RInhalingmove4
+  - first:
+      213: -7172819770244871340
+    second: RInhalingmove5
+  - first:
+      213: -4840535542425364398
+    second: RInhalingmove6
+  - first:
+      213: -5037586989070956088
+    second: RInhalingmove7
+  - first:
+      213: -6790036917352689771
+    second: RInhalingmove8
+  - first:
+      213: -1090860551184695338
+    second: RInhalingmove9
+  - first:
+      213: 174124792840077239
+    second: RInhalingJump0
+  - first:
+      213: -3790084360667305895
+    second: RInhalingJump1
+  - first:
+      213: 5794701302226210875
+    second: RInhalingJump2
+  - first:
+      213: 6046253109219062524
+    second: RInhalingJump3
+  - first:
+      213: -6274669664544172588
+    second: RInhalingJump4
+  - first:
+      213: 7425197187861974440
+    second: RInhalingJump5
+  - first:
+      213: 7309962911961358076
+    second: RInhalingJump6
+  - first:
+      213: 1510886827111382465
+    second: RInhalingJump7
+  - first:
+      213: -3652091553174185136
+    second: RJumpInhale0
+  - first:
+      213: -5375093930677714652
+    second: RJumpInhale1
+  - first:
+      213: -3439467634312099012
+    second: RJumpInhale2
+  - first:
+      213: -3911132205201139539
+    second: RJumpInhale3
+  - first:
+      213: 896852189395340195
+    second: RJumpInhaling0
+  - first:
+      213: -6232630581278975741
+    second: RJumpInhaling1
+  - first:
+      213: -5094349160278649248
+    second: RJumpInhaling3
+  - first:
+      213: -5271632252243716508
+    second: RJumpInhaling4
+  - first:
+      213: -9003026303666546747
+    second: RJumpInhaling5
+  - first:
+      213: -487063971070482028
+    second: RJumpInhaling6
+  - first:
+      213: -8641535451445394129
+    second: RJumpInhalingLimit0
+  - first:
+      213: -821679614697579518
+    second: RJumpInhalingLimit1
+  - first:
+      213: -4015957457258973100
+    second: RJumpInhalingLimit2
+  - first:
+      213: 8545616517590829977
+    second: RJumpInhalingLimit3
+  - first:
+      213: -7876374779639121589
+    second: RJumpInhalingLimit4
+  - first:
+      213: 8567318181160062778
+    second: RInhale0
+  - first:
+      213: 6586236394608877030
+    second: RInhale1
+  - first:
+      213: 1147148775762165520
+    second: RInhale2
+  - first:
+      213: -4915176844683184643
+    second: RInhale3
+  - first:
+      213: 8904494275387387334
+    second: RInhale4
+  - first:
+      213: 8072704118030985545
+    second: RInhale5
+  - first:
+      213: -7577575360964422320
+    second: RInhale6
+  - first:
+      213: 8970548370407879902
+    second: RInhale7
+  - first:
+      213: -8410674806214494997
+    second: RInhale8
+  - first:
+      213: 630748845698674496
+    second: RDisInhale0
+  - first:
+      213: 6255700053458276943
+    second: RDisInhale1
+  - first:
+      213: 2012938137853373193
+    second: RDisInhale2
+  - first:
+      213: -7088862909339368286
+    second: RDisInhale3
+  - first:
+      213: 1031495764133274081
+    second: RDisInhale4
+  - first:
+      213: -5426596532088657739
+    second: RInhalingJumpDown0
+  - first:
+      213: -6958772589927745788
+    second: RInhalingJumpDown1
+  - first:
+      213: 6396445577777007271
+    second: RInhalingJumpDown2
+  - first:
+      213: -5986340861603084236
+    second: RInhalingJumpDown3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RInhalingmove0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 319
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b75942833d611c0800000000000000
+      internalID: -4533203736816419959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 319
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1921dde576c38800800000000000000
+      internalID: 613552184055900442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 319
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd492914be37ba3b0800000000000000
+      internalID: -5500175065648294692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 319
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f5c784f14d4db0800000000000000
+      internalID: -4806112708828727759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 319
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940e1c442400e490800000000000000
+      internalID: -7719165207370660720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bc7a41c66057c90800000000000000
+      internalID: -7172819770244871340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 319
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25855170296f2dcb0800000000000000
+      internalID: -4840535542425364398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 319
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9cb4fd255e61ab0800000000000000
+      internalID: -5037586989070956088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 319
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f87691661f4c1a0800000000000000
+      internalID: -6790036917352689771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingmove9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 319
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df362bbb1c7cd0f0800000000000000
+      internalID: -1090860551184695338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf32d7939d9a6200800000000000000
+      internalID: 174124792840077239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95869adca5ae66bc0800000000000000
+      internalID: -3790084360667305895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30dfaaf12aea6050800000000000000
+      internalID: 5794701302226210875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 239
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27a1d1b2b98e350800000000000000
+      internalID: 6046253109219062524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 241
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5dce94f25ebe8a0800000000000000
+      internalID: -6274669664544172588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 240
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad0eb180899b0760800000000000000
+      internalID: 7425197187861974440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9cb0e984327560800000000000000
+      internalID: 7309962911961358076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJump7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 240
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7ac1709fb7f410800000000000000
+      internalID: 1510886827111382465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhale0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b19ddf41a215dc0800000000000000
+      internalID: -3652091553174185136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhale1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 196
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c89b6c84d765b0800000000000000
+      internalID: -5375093930677714652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhale2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 196
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bcf50e86e8440d0800000000000000
+      internalID: -3439467634312099012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhale3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 196
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8556f3bfdd8b9c0800000000000000
+      internalID: -3911132205201139539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 155
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc0f48052427c00800000000000000
+      internalID: 896852189395340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 155
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30951aa128f3189a0800000000000000
+      internalID: -6232630581278975741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06618c30e6c3d49b0800000000000000
+      internalID: -5094349160278649248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 155
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466558a956667d6b0800000000000000
+      internalID: -5271632252243716508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71572e643de0380800000000000000
+      internalID: -9003026303666546747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhaling6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 155
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e37d16e99d39f0800000000000000
+      internalID: -487063971070482028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhalingLimit0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 114
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2507aeaa49131880800000000000000
+      internalID: -8641535451445394129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhalingLimit1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c55ce6ebec894f0800000000000000
+      internalID: -821679614697579518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhalingLimit2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587ff658f37448c0800000000000000
+      internalID: -4015957457258973100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhalingLimit3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b46b532f0289670800000000000000
+      internalID: 8545616517590829977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJumpInhalingLimit4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 114
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b3c56ede71b290800000000000000
+      internalID: -7876374779639121589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8ac18e7a35e670800000000000000
+      internalID: 8567318181160062778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed59630b13076b50800000000000000
+      internalID: 6586236394608877030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 45
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff3d3dbbd7bef00800000000000000
+      internalID: 1147148775762165520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5fe6493b8c9cbb0800000000000000
+      internalID: -4915176844683184643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cde6fc8d5e139b70800000000000000
+      internalID: 8904494275387387334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 45
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e114df91080070800000000000000
+      internalID: 8072704118030985545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 45
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05596fe5b5b07d690800000000000000
+      internalID: -7577575360964422320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 45
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4fe92073acd7c70800000000000000
+      internalID: 8970548370407879902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhale8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f14e43d7474b80800000000000000
+      internalID: -8410674806214494997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RDisInhale0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6b5abbbed0c800800000000000000
+      internalID: 630748845698674496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RDisInhale1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d5c3fd06b0d650800000000000000
+      internalID: 6255700053458276943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RDisInhale2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b269542946feb10800000000000000
+      internalID: 2012938137853373193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RDisInhale3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4826b0ebc4f9d90800000000000000
+      internalID: -7088862909339368286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RDisInhale4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1eb70beeb905e00800000000000000
+      internalID: 1031495764133274081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJumpDown0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82d75943bd0b4b0800000000000000
+      internalID: -5426596532088657739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJumpDown1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 9
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b1a8d2397d6f90800000000000000
+      internalID: -6958772589927745788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJumpDown2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 9
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4488fc5db4c850800000000000000
+      internalID: 6396445577777007271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RInhalingJumpDown3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4380ebf04be3ceca0800000000000000
+      internalID: -5986340861603084236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56d2a761c1521ee4eb07bc8da8e92a13
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

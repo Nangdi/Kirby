@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 75378ba388b808e41a892dd085bc02b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3741904957340406814
+    second: lcontinue__1_-removebg-preview_0
+  - first:
+      213: 3287310130134397155
+    second: lcontinue__1_-removebg-preview_1
+  - first:
+      213: -6769457932120427046
+    second: L_BigJumpdown2
+  - first:
+      213: 2779711256188835643
+    second: lcontinue__1_-removebg-preview_3
+  - first:
+      213: -7132835610796852036
+    second: lcontinue__1_-removebg-preview_4
+  - first:
+      213: -2462009276928732336
+    second: lcontinue__1_-removebg-preview_5
+  - first:
+      213: 6705110926200515305
+    second: L_Stand0
+  - first:
+      213: 3374338887177557513
+    second: L_Stand1
+  - first:
+      213: -8567453672558177739
+    second: L_Stand2
+  - first:
+      213: -7266764318795228400
+    second: lcontinue__1_-removebg-preview_9
+  - first:
+      213: 6646288847185258913
+    second: lcontinue__1_-removebg-preview_10
+  - first:
+      213: 726232601286478413
+    second: lcontinue__1_-removebg-preview_11
+  - first:
+      213: 2217493912690875176
+    second: lcontinue__1_-removebg-preview_12
+  - first:
+      213: -7450859367331364504
+    second: lcontinue__1_-removebg-preview_13
+  - first:
+      213: 1595621825174727477
+    second: lcontinue__1_-removebg-preview_14
+  - first:
+      213: 8543786650063868600
+    second: lcontinue__1_-removebg-preview_15
+  - first:
+      213: -7803952953252455574
+    second: lcontinue__1_-removebg-preview_16
+  - first:
+      213: -1043104837179724081
+    second: lcontinue__1_-removebg-preview_17
+  - first:
+      213: 1604105471106918922
+    second: lcontinue__1_-removebg-preview_18
+  - first:
+      213: -742874527411148444
+    second: L_Down0
+  - first:
+      213: 989117748578200264
+    second: L_Down1
+  - first:
+      213: 8040706947846152925
+    second: L_Down2
+  - first:
+      213: -618277067675609313
+    second: lcontinue__1_-removebg-preview_22
+  - first:
+      213: -2259320431845663440
+    second: lcontinue__1_-removebg-preview_23
+  - first:
+      213: -1237629112445871804
+    second: lcontinue__1_-removebg-preview_24
+  - first:
+      213: -7411692007001204564
+    second: lcontinue__1_-removebg-preview_25
+  - first:
+      213: 5224966047765465540
+    second: lcontinue__1_-removebg-preview_26
+  - first:
+      213: -6725095059656072461
+    second: lcontinue__1_-removebg-preview_27
+  - first:
+      213: 6123514212495457203
+    second: lcontinue__1_-removebg-preview_28
+  - first:
+      213: 1933344822458886718
+    second: lcontinue__1_-removebg-preview_29
+  - first:
+      213: -2517847653762867010
+    second: lcontinue__1_-removebg-preview_30
+  - first:
+      213: 2866341081322795296
+    second: lcontinue__1_-removebg-preview_31
+  - first:
+      213: 5841950551871040258
+    second: lcontinue__1_-removebg-preview_32
+  - first:
+      213: 2716076001499689185
+    second: 1
+  - first:
+      213: 8067082025076763112
+    second: L_BigStand0
+  - first:
+      213: 1613816772011732094
+    second: L_BigStand1
+  - first:
+      213: -477482742416726052
+    second: L_BigStand2
+  - first:
+      213: -3022924479154719668
+    second: lcontinue__1_-removebg-preview_37
+  - first:
+      213: 5565742875160216797
+    second: lcontinue__1_-removebg-preview_38
+  - first:
+      213: 4709925687283119686
+    second: lcontinue__1_-removebg-preview_39
+  - first:
+      213: -7427789465463089685
+    second: lcontinue__1_-removebg-preview_40
+  - first:
+      213: 6975626665803166895
+    second: lcontinue__1_-removebg-preview_41
+  - first:
+      213: -8055635814916326549
+    second: lcontinue__1_-removebg-preview_42
+  - first:
+      213: -599112759545855948
+    second: L_Move4
+  - first:
+      213: -7185814338242021683
+    second: L_Move3
+  - first:
+      213: 9179994282154281652
+    second: L_Move2
+  - first:
+      213: -6851497386150695876
+    second: L_Move1
+  - first:
+      213: -6852025078168531769
+    second: L_Move0
+  - first:
+      213: 1676561681935441445
+    second: L_Move9
+  - first:
+      213: 2374236195462050842
+    second: L_Move8
+  - first:
+      213: 7466955914821992333
+    second: L_Move7
+  - first:
+      213: -4316250825284273517
+    second: L_Move6
+  - first:
+      213: 2378339772001574583
+    second: L_Move5
+  - first:
+      213: -8062280709622333977
+    second: lcontinue__1_-removebg-preview_53
+  - first:
+      213: -1183348746087879692
+    second: L_Run3
+  - first:
+      213: -359502823815950811
+    second: L_Run2
+  - first:
+      213: -2194523792275890783
+    second: L_Run1
+  - first:
+      213: -6024155174783461280
+    second: L_Run0
+  - first:
+      213: -2022909237805941749
+    second: L_Run7
+  - first:
+      213: 3538810703347846178
+    second: L_Run6
+  - first:
+      213: 1425753029454172724
+    second: L_Run5
+  - first:
+      213: -6959688638258340488
+    second: L_Run4
+  - first:
+      213: 2744049465106875420
+    second: L_BigMove9
+  - first:
+      213: -8985573093371194460
+    second: L_BigMove8
+  - first:
+      213: -3510202166083665482
+    second: L_BigMove7
+  - first:
+      213: 1903651496919182216
+    second: L_BigMove6
+  - first:
+      213: 8979443775216921174
+    second: L_BigMove5
+  - first:
+      213: -6199428912671138884
+    second: L_BigMove4
+  - first:
+      213: 384093222486516880
+    second: L_BigMove3
+  - first:
+      213: -8311201789757537585
+    second: L_BigMove2
+  - first:
+      213: -8699038379907854403
+    second: L_BigMove1
+  - first:
+      213: -3942913262451626279
+    second: L_BigMove0
+  - first:
+      213: -2116655804295861891
+    second: lcontinue__1_-removebg-preview_72
+  - first:
+      213: 4287639532090497272
+    second: lcontinue__1_-removebg-preview_73
+  - first:
+      213: 3399202283435083577
+    second: L_Jumpturn08
+  - first:
+      213: -2093003866387899873
+    second: L_Jumpturn07
+  - first:
+      213: 5416071496911603390
+    second: L_Jumpturn06
+  - first:
+      213: 9114870918650587648
+    second: L_Jumpturn05
+  - first:
+      213: -3406645405967050262
+    second: L_Jumpturn04
+  - first:
+      213: 912581615847423934
+    second: L_Jumpturn03
+  - first:
+      213: -8772512527955653668
+    second: L_Jumpturn02
+  - first:
+      213: -8136360489016949093
+    second: L_Jumpturn01
+  - first:
+      213: -4743214296240738432
+    second: L_Jumpturn0
+  - first:
+      213: 6360697218802285337
+    second: L_Jump
+  - first:
+      213: -8103605728452692375
+    second: L_BigJump7
+  - first:
+      213: 9020407111241248971
+    second: L_BigJump6
+  - first:
+      213: 7403859335383200104
+    second: L_BigJump5
+  - first:
+      213: 7315984997658792359
+    second: L_BigJump4
+  - first:
+      213: 6075718546655257960
+    second: L_BigJump3
+  - first:
+      213: -6290400331078586492
+    second: L_BigJump2
+  - first:
+      213: -6677459684467103641
+    second: L_BigJump1
+  - first:
+      213: -9052664199651189561
+    second: L_BigJump0
+  - first:
+      213: -3361521780573296623
+    second: L_doubleJump3
+  - first:
+      213: 8296044415932774127
+    second: L_doubleJump2
+  - first:
+      213: 72659712908748204
+    second: L_doubleJump1
+  - first:
+      213: -1040793794039611170
+    second: L_doubleJump0
+  - first:
+      213: 7113616336047068936
+    second: L_doubleJump10
+  - first:
+      213: 3869746097064743670
+    second: L_doubleJump9
+  - first:
+      213: 6868764378934621452
+    second: L_doubleJump8
+  - first:
+      213: 5336163040382671647
+    second: L_doubleJump7
+  - first:
+      213: 30924382803762728
+    second: L_doubleJump6
+  - first:
+      213: 813485176178663657
+    second: L_doubleJump5
+  - first:
+      213: 7828536656680919019
+    second: lcontinue__1_-removebg-preview_102
+  - first:
+      213: -3812570655971580711
+    second: lcontinue__1_-removebg-preview_103
+  - first:
+      213: -1308532525790560868
+    second: lcontinue__1_-removebg-preview_104
+  - first:
+      213: -7795331711762582325
+    second: lcontinue__1_-removebg-preview_105
+  - first:
+      213: 8259568222881543007
+    second: lcontinue__1_-removebg-preview_106
+  - first:
+      213: -7181100950180567241
+    second: lcontinue__1_-removebg-preview_107
+  - first:
+      213: 7593686604991493655
+    second: lcontinue__1_-removebg-preview_108
+  - first:
+      213: 4722058024769720153
+    second: lcontinue__1_-removebg-preview_109
+  - first:
+      213: 7632535870099358101
+    second: lcontinue__1_-removebg-preview_110
+  - first:
+      213: 8954328676473122038
+    second: lcontinue__1_-removebg-preview_111
+  - first:
+      213: -5835423649205844045
+    second: lcontinue__1_-removebg-preview_112
+  - first:
+      213: 3554771925250773612
+    second: L_Inhale8
+  - first:
+      213: 5650002669461565210
+    second: L_Inhale7
+  - first:
+      213: -5693932520842720271
+    second: L_Inhale6
+  - first:
+      213: -5763039047836720750
+    second: L_Inhale5
+  - first:
+      213: 4354666961800132638
+    second: L_Inhale4
+  - first:
+      213: -5779892534306938077
+    second: L_Inhale3
+  - first:
+      213: 4501697007076911156
+    second: L_Inhale2
+  - first:
+      213: 2217832248237093374
+    second: L_Inhale1
+  - first:
+      213: 7059011197932146124
+    second: L_Inhale0
+  - first:
+      213: -1647696770993447612
+    second: L_BigJumpdown3
+  - first:
+      213: -5185280181945685405
+    second: L_BigJumpdown1
+  - first:
+      213: -6772228015902924242
+    second: L_BigJumpdown0
+  - first:
+      213: 6293879634888746880
+    second: L_DisInhale4
+  - first:
+      213: -5235517959571728984
+    second: L_DisInhale3
+  - first:
+      213: -3274314547029768730
+    second: L_DisInhale2
+  - first:
+      213: 3656753195280837484
+    second: L_DisInhale1
+  - first:
+      213: 8950340462392340681
+    second: L_DisInhale0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 481
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145c85bbbaede330800000000000000
+      internalID: 3741904957340406814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 481
+        width: 166
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0343d752fde9d20800000000000000
+      internalID: 3287310130134397155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Stand0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 452
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa5c7bcd65d0d50800000000000000
+      internalID: 6705110926200515305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Stand1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 451
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065102075f04de20800000000000000
+      internalID: 3374338887177557513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Stand2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 451
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532dd81f64a4a1980800000000000000
+      internalID: -8567453672558177739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Down0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 429
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e8f0ad87c0b5f0800000000000000
+      internalID: -742874527411148444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Down1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 429
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa90d0a5d0abd00800000000000000
+      internalID: 989117748578200264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Down2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 429
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2a2691e54569f60800000000000000
+      internalID: 8040706947846152925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigStand0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 392
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a3ae4c5804ff60800000000000000
+      internalID: 8067082025076763112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigStand1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 392
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca354cdcd656610800000000000000
+      internalID: 1613816772011732094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigStand2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72fdfb9f3af59f0800000000000000
+      internalID: -477482742416726052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 356
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7ffb28e1a43090800000000000000
+      internalID: -8055635814916326549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308dd29e168fa7f0800000000000000
+      internalID: -599112759545855948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 355
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6fc237eebd64c90800000000000000
+      internalID: -7185814338242021683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 355
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba4ce37924e56f70800000000000000
+      internalID: 9179994282154281652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 355
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c68f69d679ae0a0800000000000000
+      internalID: -6851497386150695876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 356
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc42b7be77b8e0a0800000000000000
+      internalID: -6852025078168531769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 355
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1bc787f7544710800000000000000
+      internalID: 1676561681935441445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 356
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f3639d3bf2f020800000000000000
+      internalID: 2374236195462050842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 356
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f7778c7d4ff9760800000000000000
+      internalID: 7466955914821992333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 355
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ab17d2eb89914c0800000000000000
+      internalID: -4316250825284273517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Move5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 356
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5651fb6f810120800000000000000
+      internalID: 2378339772001574583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf97f09660d1090800000000000000
+      internalID: -8062280709622333977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 325
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2708c596e39fe0800000000000000
+      internalID: -1183348746087879692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 325
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e43b2261ac20bf0800000000000000
+      internalID: -359502823815950811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 325
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad904eec3c7b81e0800000000000000
+      internalID: -2194523792275890783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 325
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068533f29c6e56ca0800000000000000
+      internalID: -6024155174783461280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 325
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c78bb14ce2de3e0800000000000000
+      internalID: -2022909237805941749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 325
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0664d5916c1130800000000000000
+      internalID: 3538810703347846178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 325
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329d0a83da49c310800000000000000
+      internalID: 1425753029454172724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Run4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 325
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1a49be083a6f90800000000000000
+      internalID: -6959688638258340488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 290
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14cbcd2372d41620800000000000000
+      internalID: 2744049465106875420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 290
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35d4211e4dc4380800000000000000
+      internalID: -8985573093371194460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 289
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c6c05ab1494fc0800000000000000
+      internalID: -3510202166083665482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b220253f02b6a10800000000000000
+      internalID: 1903651496919182216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 290
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa566d9846d9c70800000000000000
+      internalID: 8979443775216921174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 290
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb53f9ff3437f9a0800000000000000
+      internalID: -6199428912671138884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a1f630c2945500800000000000000
+      internalID: 384093222486516880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 289
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc249e0c10ea8ac80800000000000000
+      internalID: -8311201789757537585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 290
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf4a16deaec64780800000000000000
+      internalID: -8699038379907854403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigMove0
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 290
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee46b3745f749c0800000000000000
+      internalID: -3942913262451626279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 256
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792d21b2c020a2e0800000000000000
+      internalID: -2116655804295861891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81d230071c08b30800000000000000
+      internalID: 4287639532090497272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn08
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 258
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93748df87746c2f20800000000000000
+      internalID: 3399202283435083577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn07
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 256
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a1e6e921824f2e0800000000000000
+      internalID: -2093003866387899873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn06
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c883b450c92b40800000000000000
+      internalID: 5416071496911603390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn05
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 259
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae4bfcec68e7e70800000000000000
+      internalID: 9114870918650587648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn04
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 259
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91e9d6d0a29b0d0800000000000000
+      internalID: -3406645405967050262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn03
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 258
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf332105242aac00800000000000000
+      internalID: 912581615847423934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn02
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 258
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb0a87a556c14680800000000000000
+      internalID: -8772512527955653668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn01
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 259
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960f975e37d51f80800000000000000
+      internalID: -8136360489016949093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jumpturn0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 257
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f240b6ab7bc2eb0800000000000000
+      internalID: -4743214296240738432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Jump
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b768a8b6cb54850800000000000000
+      internalID: 6360697218802285337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 218
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b1c356853a8f80800000000000000
+      internalID: -8103605728452692375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 218
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc031fab97cee2d70800000000000000
+      internalID: 9020407111241248971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 218
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b97496dacfb660800000000000000
+      internalID: 7403859335383200104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 218
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11a87f799978560800000000000000
+      internalID: 7315984997658792359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 217
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865a3a0e3d9415450800000000000000
+      internalID: 6075718546655257960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 218
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48faf031a3204b8a0800000000000000
+      internalID: -6290400331078586492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 218
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a851bbc5e453a0800000000000000
+      internalID: -6677459684467103641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJump0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc15ec9fd97e5280800000000000000
+      internalID: -9052664199651189561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 179
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a03c20c97951d0800000000000000
+      internalID: -3361521780573296623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 179
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe639842178712370800000000000000
+      internalID: 8296044415932774127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 179
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56869bf93220100800000000000000
+      internalID: 72659712908748204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 178
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed086d50f8b5e81f0800000000000000
+      internalID: -1040793794039611170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 142
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807508a3e54a8b260800000000000000
+      internalID: 7113616336047068936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 142
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29f7e829914b530800000000000000
+      internalID: 3869746097064743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 142
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0531447fc0c25f50800000000000000
+      internalID: 6868764378934621452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 142
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd395530cdd0a40800000000000000
+      internalID: 5336163040382671647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 142
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9ae3ff8ddd6000800000000000000
+      internalID: 30924382803762728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_doubleJump5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 142
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ec2c25741a4b00800000000000000
+      internalID: 813485176178663657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 105
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef1794ac9c84ac60800000000000000
+      internalID: 7828536656680919019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46cb13037071bc0800000000000000
+      internalID: -3812570655971580711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 105
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7537c99827dde0800000000000000
+      internalID: -1308532525790560868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 105
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bd0e0c1b61d390800000000000000
+      internalID: -7795331711762582325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lcontinue__1_-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 105
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5375f2a981ef9270800000000000000
+      internalID: 8259568222881543007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c629a166b36155130800000000000000
+      internalID: 3554771925250773612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 42
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fe34d2e77d86e40800000000000000
+      internalID: 5650002669461565210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb00204a861bf0b0800000000000000
+      internalID: -5693932520842720271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291acf615829500b0800000000000000
+      internalID: -5763039047836720750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f93d9782ee6c30800000000000000
+      internalID: 4354666961800132638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 42
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e3bcfc52b9cfa0800000000000000
+      internalID: -5779892534306938077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 43
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382241b39d397e30800000000000000
+      internalID: 4501697007076911156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 42
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f39fdda257ce10800000000000000
+      internalID: 2217832248237093374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Inhale0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0046c845a6f160800000000000000
+      internalID: 7059011197932146124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJumpdown3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d906344843229e0800000000000000
+      internalID: -1647696770993447612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJumpdown1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2146b52f2a08b0800000000000000
+      internalID: -5185280181945685405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJumpdown0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22682610863402a0800000000000000
+      internalID: -6772228015902924242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DisInhale4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 10
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087eb987e2a585750800000000000000
+      internalID: 6293879634888746880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DisInhale3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 10
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a59c8c9724b757b0800000000000000
+      internalID: -5235517959571728984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DisInhale2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 10
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5856d744c4f82d0800000000000000
+      internalID: -3274314547029768730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DisInhale1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2df328a56fb230800000000000000
+      internalID: 3656753195280837484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_DisInhale0
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c073b7ca3ff53c70800000000000000
+      internalID: 8950340462392340681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_BigJumpdown2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f20a70ed0e02a0800000000000000
+      internalID: -6769457932120427046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21cff3a1b4cb4cd429296b6f1e83aa85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
